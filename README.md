@@ -2,6 +2,8 @@
 
 Projeto de classificacao usando Multilayer Perceptron (MLP), MLflow para registro dos experimentos e FastAPI para disponibilizar uma API local de predicao.
 
+## Link YouTube: https://youtu.be/ypq-7io-Ahk
+
 ## Integrantes
 
 - Marco Antonio Gonçalves - RM556818
