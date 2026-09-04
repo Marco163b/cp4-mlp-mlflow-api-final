@@ -4,8 +4,8 @@ Projeto de classificacao usando Multilayer Perceptron (MLP), MLflow para registr
 
 ## Integrantes
 
-- Guilherme Barbiero - RM555185
 - Marco Antonio Gonçalves - RM556818
+- Guilherme Barbiero - RM555185
 - Vinicius Castro - RM556137
 - Camila Mie Takara - RM555418
 - Matheus Cantiere - RM558479
