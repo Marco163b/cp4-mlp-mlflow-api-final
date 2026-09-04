@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+work/artifacts/
+mlflow.db
+mlartifacts/
+best_model_info.json
